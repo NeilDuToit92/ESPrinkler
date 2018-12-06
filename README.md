@@ -10,6 +10,8 @@ Create a modular sprinkler controller with an easy-to-use interface
 - Integrate with home automation (Home Assitant/OpenHAB)
 - Integrate with virtual assistants (Alexa/Google Assistant)
 - Online dashboard capabilities (Optional)
-- Tank level indicator (Multiple tanks)
-- Flow measurement (Multiple)
+- Tank level indicator (Multiple tanks?)
+- Flow measurement (Multiple?)
 - OLED display
+- SD card to save config (Future)
+- NTP/Internal clock (Optional RTC)
